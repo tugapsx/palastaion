@@ -1,2 +1,10 @@
 # palastaion
 Pl@yst@ti0nJ@ilbr€@kK€rn€l€xpl0itW€bKit
+
+### Based on Github
+
+ChendoChap/ps4-ipv6-uaf
+
+dmiller423/dmiller423.github.io
+
+sleirsgoevy/ps4jb
