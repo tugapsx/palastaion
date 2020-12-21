@@ -1,4 +1,4 @@
-#PS4JB702 - 098890.xyz
+# PS4JB702 - 098890.xyz
 
 [JB+MIRA/JB+HEN [sleirsgoevy/ps4jb]](http://000.098890.xyz)
 
