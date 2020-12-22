@@ -10,3 +10,5 @@ dmiller423/dmiller423.github.io
 sleirsgoevy/ps4jb
 
 synacktiv/PS4-webkit-exploit-6.XX
+
+chronoss09/last-sleirsgoevy-host-7.02 
