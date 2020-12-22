@@ -1,7 +1,7 @@
 # palastaion
 Pl@yst@ti0nJ@ilbr€@kK€rn€l€xpl0itW€bKit
 
-### Based on Github
+### Thanks && Based on Github
 
 ChendoChap/ps4-ipv6-uaf
 
